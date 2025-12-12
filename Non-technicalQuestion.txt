@@ -1,0 +1,9 @@
+A disciplina que mais gostei de cursar na faculdade foi Modelagem e Projeto de Banco de Dados, 
+pois combina o estudo aprofundado dos fundamentos de bancos de dados com a aplicação prática em 
+projetos desenvolvidos em Java utilizando o framework Spring Boot. 
+Ao longo da disciplina usamos o banco de dados MySQL, tanto nas atividades conceituais quanto 
+nos projetos reais desenvolvidos para empresas parceiras. 
+Nesse processo, estudamos modelagem de dados, projeto lógico e físico, arquitetura, escrita e 
+otimização de queries SQL , incluindo subqueries , e a implementação de triggers, além de diversos 
+outros conceitos essenciais relacionados a integração, segurança, desempenho e boas práticas no 
+uso de bancos de dados.
